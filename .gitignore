@@ -1,0 +1,16 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Media ###
+.mp3
+.mp4
+.png
